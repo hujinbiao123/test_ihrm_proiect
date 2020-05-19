@@ -1,0 +1,19 @@
+2020-05-19 15:52:37,124 INFO [root] [__init__.py(<module>:11)] - 测试日志是否会打印！
+2020-05-19 15:52:37,471 INFO [root] [test_ihrm_emp_params.py(test01_login:28)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '8ad05e19-63d6-4895-a8de-2038433be2db'}
+2020-05-19 15:52:37,471 INFO [root] [test_ihrm_emp_params.py(test01_login:35)] - 请求头中令牌：{'Content-Type': 'application/json', 'Authorization': 'Bearer 8ad05e19-63d6-4895-a8de-2038433be2db'}
+2020-05-19 15:52:37,592 INFO [root] [test_ihrm_emp_params.py(test02_add_emp:46)] - 添加员工的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1262652442898595840'}}
+2020-05-19 15:52:37,716 INFO [root] [test_ihrm_emp_params.py(test03_query_emp:57)] - 查询员工的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1262652442898595840', 'mobile': '18635092467', 'username': '孙子兵法222', 'password': '611817bd6eceb0d414811a0faa3ed84b', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1063678149528784896', 'timeOfEntry': '2020-05-05T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '1234123', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2020-05-17T16:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '测试部', 'roleIds': [], 'staffPhoto': None}}
+2020-05-19 15:52:37,834 INFO [root] [test_ihrm_emp_params.py(test04_modify_emp:70)] - 修改员工的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1262652442898595840'}}
+2020-05-19 15:52:37,941 INFO [root] [test_ihrm_emp_params.py(test05_delete_emp:82)] - 删除的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-05-19 15:52:38,048 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'e616fcd8-9863-4b1a-b0ab-a36c457cb18b'}
+2020-05-19 15:52:38,165 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:38,279 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:38,387 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:38,505 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:38,618 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:38,737 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '6861da93-9b46-4900-a2ad-691ad1d143fd'}
+2020-05-19 15:52:38,856 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:38,977 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:39,086 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:39,201 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-05-19 15:52:39,310 INFO [root] [test_ihrm_login_params.py(test01_login:40)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}

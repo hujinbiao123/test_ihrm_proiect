@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d564043b-1e6a-4005-9a7e-aca81151aded" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c0wpalA1dDcNvc7VvzeHtiUhjF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Lib/site-packages" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ghost\PycharmProjects\day08_test_ihrm_project\abspath_test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ghost\PycharmProjects\day08_test_ihrm_project\venv\Lib\site-packages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_ihrm_employee.TestIHRMEmployee.test01_employee_manage">
+    <configuration name="Unittests for test_ihrm_employee.TestIHRMEmployee" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="day08_test_ihrm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ihrm_employee.TestIHRMEmployee&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_ihrm_employee.TestIHRMEmployee.test01_employee_manage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="day08_test_ihrm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ihrm_employee.TestIHRMEmployee.test01_employee_manage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_ihrm_login.TestIHRMLogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="day08_test_ihrm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ihrm_login.TestIHRMLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_ihrm_login.TestIHRMLogin.test06_mobile_has_special_char" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="day08_test_ihrm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ihrm_login.TestIHRMLogin.test06_mobile_has_special_char&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_ihrm_login.TestIHRMLogin.test12_None" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="day08_test_ihrm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ihrm_login.TestIHRMLogin.test12_None&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_ihrm_employee.TestIHRMEmployee.test01_employee_manage" />
+        <item itemvalue="Python tests.Unittests for test_ihrm_employee.TestIHRMEmployee" />
+        <item itemvalue="Python tests.Unittests for test_ihrm_login.TestIHRMLogin" />
+        <item itemvalue="Python tests.Unittests for test_ihrm_login.TestIHRMLogin.test12_None" />
+        <item itemvalue="Python tests.Unittests for test_ihrm_login.TestIHRMLogin.test06_mobile_has_special_char" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d564043b-1e6a-4005-9a7e-aca81151aded" name="Default Changelist" comment="" />
+      <created>1589679001511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589679001511</updated>
+      <workItem from="1589679011798" duration="22512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="441" key="GridCell.Tab.0.bottom" timestamp="1589707491593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="441" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589707491593" />
+    <state width="1323" height="441" key="GridCell.Tab.0.center" timestamp="1589707491592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="441" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589707491592" />
+    <state width="1323" height="441" key="GridCell.Tab.0.left" timestamp="1589707491592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="441" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589707491592" />
+    <state width="1323" height="441" key="GridCell.Tab.0.right" timestamp="1589707491592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="441" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589707491592" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1589688216033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589688216033" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1589688216033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589688216033" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1589688216033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589688216033" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1589688216033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589688216033" />
+    <state x="186" y="8" key="SettingsEditor" timestamp="1589680744703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589680744703" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589703636586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589703636586" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_employee_TestIHRMEmployee.coverage" NAME="Unittests for test_ihrm_employee.TestIHRMEmployee Coverage Results" MODIFIED="1589707264380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_login_TestIHRMLogin_test01_login_success.coverage" NAME="Unittests for test_ihrm_login.TestIHRMLogin.test01_login_success Coverage Results" MODIFIED="1589697039633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_login_TestIHRMLogin_test12_None.coverage" NAME="Unittests for test_ihrm_login.TestIHRMLogin.test12_None Coverage Results" MODIFIED="1589698941869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_login_TestIHRMLogin_test03_password_is_error.coverage" NAME="Unittests for test_ihrm_login.TestIHRMLogin.test03_password_is_error Coverage Results" MODIFIED="1589698118208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$test02__1_.coverage" NAME="test02 (1) Coverage Results" MODIFIED="1589684968544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/abspath_test" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_login_TestIHRMLogin_test05_password_is_empty.coverage" NAME="Unittests for test_ihrm_login.TestIHRMLogin.test05_password_is_empty Coverage Results" MODIFIED="1589698200975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_login_TestIHRMLogin_test06_mobile_has_special_char.coverage" NAME="Unittests for test_ihrm_login.TestIHRMLogin.test06_mobile_has_special_char Coverage Results" MODIFIED="1589698260217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_login_TestIHRMLogin.coverage" NAME="Unittests for test_ihrm_login.TestIHRMLogin Coverage Results" MODIFIED="1589700228344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$app.coverage" NAME="app Coverage Results" MODIFIED="1589682350296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_login_TestIHRMLogin_test02_mobile_is_not_exist.coverage" NAME="Unittests for test_ihrm_login.TestIHRMLogin.test02_mobile_is_not_exist Coverage Results" MODIFIED="1589697815750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$test.coverage" NAME="test Coverage Results" MODIFIED="1589684798834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_login_TestIHRMLogin_test04_mobile_is_empty.coverage" NAME="Unittests for test_ihrm_login.TestIHRMLogin.test04_mobile_is_empty Coverage Results" MODIFIED="1589698168330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$Unittests_for_test_ihrm_employee_TestIHRMEmployee_test01_employee_manage.coverage" NAME="Unittests for test_ihrm_employee.TestIHRMEmployee.test01_employee_manage Coverage Results" MODIFIED="1589707472347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1589685538290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/day08_test_ihrm_project$test02.coverage" NAME="test02 Coverage Results" MODIFIED="1589684889709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

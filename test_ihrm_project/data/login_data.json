@@ -1,0 +1,127 @@
+[
+  {
+    "case_name": "登录成功",
+    "jsonData": {
+      "mobile": "13800000002",
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "case_name": "账号未注册",
+    "jsonData": {
+      "mobile": "13900000002",
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "密码错误",
+    "jsonData": {
+      "mobile": "13800000002",
+      "password": "error"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "账号为空",
+    "jsonData": {
+      "mobile": "",
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "密码为空",
+    "jsonData": {
+      "mobile": "13800000002",
+      "password": ""
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "账号中有特殊字符",
+    "jsonData": {
+      "mobile": "138*0000002",
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "多参测试",
+    "jsonData": {
+      "mobile": "13800000002",
+      "password": "123456",
+      "more_params": "1"
+    },
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "case_name": "少参-缺少mobile",
+    "jsonData": {
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "少参-缺少password",
+    "jsonData": {
+      "mobile": "13800000002"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "无参",
+    "jsonData": {},
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "错误参数",
+    "jsonData": {
+      "mboile": "13800000002",
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "case_name": "传入none",
+    "jsonData": null,
+    "http_code": 200,
+    "success": false,
+    "code": 99999,
+    "message": "抱歉，系统繁忙，请稍后重试！"
+  }
+]
